@@ -1,0 +1,51 @@
+[2025-10-14 18:18:01,115] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: x_DAG.x_datascience scheduled__2025-10-13T00:00:00+00:00 [queued]>
+[2025-10-14 18:18:01,122] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: x_DAG.x_datascience scheduled__2025-10-13T00:00:00+00:00 [queued]>
+[2025-10-14 18:18:01,122] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2025-10-14 18:18:01,122] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2025-10-14 18:18:01,122] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2025-10-14 18:18:01,133] {taskinstance.py:1377} INFO - Executing <Task(XOperator): x_datascience> on 2025-10-13 00:00:00+00:00
+[2025-10-14 18:18:01,144] {standard_task_runner.py:52} INFO - Started process 32464 to run task
+[2025-10-14 18:18:01,152] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'x_DAG', 'x_datascience', 'scheduled__2025-10-13T00:00:00+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/x_dag.py', '--cfg-path', '/tmp/tmpx8xk3ck_', '--error-file', '/tmp/tmpihf712a_']
+[2025-10-14 18:18:01,153] {standard_task_runner.py:80} INFO - Job 28: Subtask x_datascience
+[2025-10-14 18:18:01,202] {task_command.py:370} INFO - Running <TaskInstance: x_DAG.x_datascience scheduled__2025-10-13T00:00:00+00:00 [running]> on host Matheus-PC.localdomain
+[2025-10-14 18:18:01,249] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=x_DAG
+AIRFLOW_CTX_TASK_ID=x_datascience
+AIRFLOW_CTX_EXECUTION_DATE=2025-10-13T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2025-10-13T00:00:00+00:00
+[2025-10-14 18:18:01,255] {base.py:68} INFO - Using connection ID 'x_default' for task execution.
+[2025-10-14 18:18:01,257] {x_hook.py:40} INFO - Requisição: https://api.twitter.com/2/tweets/search/recent?query=datascience&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,lang,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2025-10-13T00:00:00.00Z&end_time=2025-10-14T00:00:00.00Z
+[2025-10-14 18:18:01,487] {http.py:142} ERROR - HTTP error: Too Many Requests
+[2025-10-14 18:18:01,487] {http.py:143} ERROR - {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+[2025-10-14 18:18:01,494] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/providers/http/hooks/http.py", line 140, in check_response
+    response.raise_for_status()
+  File "/root/Projects/etlX/venv/lib/python3.9/site-packages/requests/models.py", line 960, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=datascience&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,lang,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2025-10-13T00:00:00.00Z&end_time=2025-10-14T00:00:00.00Z
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/Projects/etlX/airflow/operators/x_operator.py", line 34, in execute
+    for pg in XHook(end_time, start_time, query).run():
+  File "/root/Projects/etlX/airflow/hook/x_hook.py", line 68, in run
+    return self.pagination(url_raw, session)
+  File "/root/Projects/etlX/airflow/hook/x_hook.py", line 47, in pagination
+    response = self.conn_to_endpoint(url_raw, session)
+  File "/root/Projects/etlX/airflow/hook/x_hook.py", line 42, in conn_to_endpoint
+    response = self.run_and_check(session, prep, {})
+  File "/root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/providers/http/hooks/http.py", line 183, in run_and_check
+    self.check_response(response)
+  File "/root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/providers/http/hooks/http.py", line 144, in check_response
+    raise AirflowException(str(response.status_code) + ":" + response.reason)
+airflow.exceptions.AirflowException: 429:Too Many Requests
+[2025-10-14 18:18:01,499] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=x_DAG, task_id=x_datascience, execution_date=20251013T000000, start_date=20251014T211801, end_date=20251014T211801
+[2025-10-14 18:18:01,508] {standard_task_runner.py:92} ERROR - Failed to execute job 28 for task x_datascience (429:Too Many Requests; 32464)
+[2025-10-14 18:18:01,522] {local_task_job.py:156} INFO - Task exited with return code 1
+[2025-10-14 18:18:01,542] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

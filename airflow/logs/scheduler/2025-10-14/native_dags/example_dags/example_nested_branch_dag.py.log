@@ -1,0 +1,368 @@
+[2025-10-14 14:57:11,644] {processor.py:153} INFO - Started process (PID=13330) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:57:11,645] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 14:57:11,645] {logging_mixin.py:115} INFO - [2025-10-14 14:57:11,645] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:57:11,658] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:57:11,720] {logging_mixin.py:115} INFO - [2025-10-14 14:57:11,720] {manager.py:508} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2025-10-14 14:57:11,727] {logging_mixin.py:115} INFO - [2025-10-14 14:57:11,727] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2025-10-14 14:57:11,733] {logging_mixin.py:115} INFO - [2025-10-14 14:57:11,733] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2025-10-14 14:57:11,733] {logging_mixin.py:115} INFO - [2025-10-14 14:57:11,733] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:57:11,740] {logging_mixin.py:115} INFO - [2025-10-14 14:57:11,740] {dag.py:2398} INFO - Creating ORM DAG for example_nested_branch_dag
+[2025-10-14 14:57:11,749] {logging_mixin.py:115} INFO - [2025-10-14 14:57:11,749] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 14:57:11,761] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.122 seconds
+[2025-10-14 14:57:48,937] {processor.py:153} INFO - Started process (PID=13541) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:57:48,938] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 14:57:48,938] {logging_mixin.py:115} INFO - [2025-10-14 14:57:48,938] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:57:48,951] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:57:48,973] {logging_mixin.py:115} INFO - [2025-10-14 14:57:48,973] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:57:48,994] {logging_mixin.py:115} INFO - [2025-10-14 14:57:48,994] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 14:57:49,006] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.073 seconds
+[2025-10-14 14:58:22,597] {processor.py:153} INFO - Started process (PID=13698) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:58:22,597] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 14:58:22,598] {logging_mixin.py:115} INFO - [2025-10-14 14:58:22,598] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:58:22,610] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:58:22,630] {logging_mixin.py:115} INFO - [2025-10-14 14:58:22,630] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:58:22,651] {logging_mixin.py:115} INFO - [2025-10-14 14:58:22,651] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 14:58:22,661] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-10-14 14:58:55,724] {processor.py:153} INFO - Started process (PID=13756) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:58:55,725] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 14:58:55,725] {logging_mixin.py:115} INFO - [2025-10-14 14:58:55,725] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:58:55,738] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:58:55,757] {logging_mixin.py:115} INFO - [2025-10-14 14:58:55,757] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:58:55,778] {logging_mixin.py:115} INFO - [2025-10-14 14:58:55,778] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 14:58:55,789] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-10-14 14:59:29,654] {processor.py:153} INFO - Started process (PID=13967) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:59:29,655] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 14:59:29,656] {logging_mixin.py:115} INFO - [2025-10-14 14:59:29,656] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:59:29,671] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 14:59:29,692] {logging_mixin.py:115} INFO - [2025-10-14 14:59:29,692] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:59:29,713] {logging_mixin.py:115} INFO - [2025-10-14 14:59:29,713] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 14:59:29,726] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2025-10-14 15:00:03,365] {processor.py:153} INFO - Started process (PID=14025) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:00:03,366] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:00:03,366] {logging_mixin.py:115} INFO - [2025-10-14 15:00:03,366] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:00:03,381] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:00:03,404] {logging_mixin.py:115} INFO - [2025-10-14 15:00:03,404] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:00:03,429] {logging_mixin.py:115} INFO - [2025-10-14 15:00:03,428] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:00:03,443] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.085 seconds
+[2025-10-14 15:00:36,517] {processor.py:153} INFO - Started process (PID=14080) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:00:36,518] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:00:36,519] {logging_mixin.py:115} INFO - [2025-10-14 15:00:36,519] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:00:36,531] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:00:36,553] {logging_mixin.py:115} INFO - [2025-10-14 15:00:36,553] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:00:36,572] {logging_mixin.py:115} INFO - [2025-10-14 15:00:36,572] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:00:36,583] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.071 seconds
+[2025-10-14 15:01:11,913] {processor.py:153} INFO - Started process (PID=14445) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:01:11,913] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:01:11,914] {logging_mixin.py:115} INFO - [2025-10-14 15:01:11,914] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:01:11,926] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:01:11,945] {logging_mixin.py:115} INFO - [2025-10-14 15:01:11,945] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:01:11,965] {logging_mixin.py:115} INFO - [2025-10-14 15:01:11,965] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:01:11,976] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-10-14 15:01:44,645] {processor.py:153} INFO - Started process (PID=14561) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:01:44,646] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:01:44,647] {logging_mixin.py:115} INFO - [2025-10-14 15:01:44,647] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:01:44,662] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:01:44,687] {logging_mixin.py:115} INFO - [2025-10-14 15:01:44,687] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:01:44,712] {logging_mixin.py:115} INFO - [2025-10-14 15:01:44,712] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:01:44,726] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.087 seconds
+[2025-10-14 15:02:20,979] {processor.py:153} INFO - Started process (PID=14815) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:02:20,980] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:02:20,980] {logging_mixin.py:115} INFO - [2025-10-14 15:02:20,980] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:02:20,993] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:02:21,015] {logging_mixin.py:115} INFO - [2025-10-14 15:02:21,015] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:02:21,038] {logging_mixin.py:115} INFO - [2025-10-14 15:02:21,038] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:02:21,050] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2025-10-14 15:02:54,573] {processor.py:153} INFO - Started process (PID=14977) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:02:54,574] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:02:54,574] {logging_mixin.py:115} INFO - [2025-10-14 15:02:54,574] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:02:54,588] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:02:54,609] {logging_mixin.py:115} INFO - [2025-10-14 15:02:54,609] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:02:54,631] {logging_mixin.py:115} INFO - [2025-10-14 15:02:54,631] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:02:54,644] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2025-10-14 15:03:26,977] {processor.py:153} INFO - Started process (PID=15032) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:03:26,978] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:03:26,979] {logging_mixin.py:115} INFO - [2025-10-14 15:03:26,979] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:03:26,992] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:03:27,014] {logging_mixin.py:115} INFO - [2025-10-14 15:03:27,014] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:03:27,036] {logging_mixin.py:115} INFO - [2025-10-14 15:03:27,036] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:03:27,048] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2025-10-14 15:10:00,752] {processor.py:153} INFO - Started process (PID=15891) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:10:00,754] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:10:00,754] {logging_mixin.py:115} INFO - [2025-10-14 15:10:00,754] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:10:00,769] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:10:00,792] {logging_mixin.py:115} INFO - [2025-10-14 15:10:00,792] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:10:00,815] {logging_mixin.py:115} INFO - [2025-10-14 15:10:00,815] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:10:00,827] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.080 seconds
+[2025-10-14 15:10:35,851] {processor.py:153} INFO - Started process (PID=15949) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:10:35,852] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:10:35,852] {logging_mixin.py:115} INFO - [2025-10-14 15:10:35,852] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:10:35,867] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:10:35,890] {logging_mixin.py:115} INFO - [2025-10-14 15:10:35,890] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:10:35,914] {logging_mixin.py:115} INFO - [2025-10-14 15:10:35,914] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:10:35,928] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.082 seconds
+[2025-10-14 15:11:09,933] {processor.py:153} INFO - Started process (PID=16006) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:11:09,933] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:11:09,934] {logging_mixin.py:115} INFO - [2025-10-14 15:11:09,934] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:11:09,957] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:11:09,992] {logging_mixin.py:115} INFO - [2025-10-14 15:11:09,992] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:11:10,022] {logging_mixin.py:115} INFO - [2025-10-14 15:11:10,022] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:11:10,036] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.110 seconds
+[2025-10-14 15:11:43,105] {processor.py:153} INFO - Started process (PID=16165) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:11:43,106] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:11:43,107] {logging_mixin.py:115} INFO - [2025-10-14 15:11:43,107] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:11:43,119] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:11:43,139] {logging_mixin.py:115} INFO - [2025-10-14 15:11:43,139] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:11:43,161] {logging_mixin.py:115} INFO - [2025-10-14 15:11:43,161] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:11:43,172] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.071 seconds
+[2025-10-14 15:12:18,306] {processor.py:153} INFO - Started process (PID=16223) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:12:18,307] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:12:18,307] {logging_mixin.py:115} INFO - [2025-10-14 15:12:18,307] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:12:18,320] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:12:18,341] {logging_mixin.py:115} INFO - [2025-10-14 15:12:18,340] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:12:18,362] {logging_mixin.py:115} INFO - [2025-10-14 15:12:18,362] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:12:18,375] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.073 seconds
+[2025-10-14 15:12:51,613] {processor.py:153} INFO - Started process (PID=16278) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:12:51,614] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:12:51,614] {logging_mixin.py:115} INFO - [2025-10-14 15:12:51,614] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:12:51,627] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:12:51,646] {logging_mixin.py:115} INFO - [2025-10-14 15:12:51,646] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:12:51,665] {logging_mixin.py:115} INFO - [2025-10-14 15:12:51,665] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:12:51,676] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-10-14 15:13:24,724] {processor.py:153} INFO - Started process (PID=16333) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:13:24,724] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:13:24,725] {logging_mixin.py:115} INFO - [2025-10-14 15:13:24,725] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:13:24,737] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:13:24,757] {logging_mixin.py:115} INFO - [2025-10-14 15:13:24,757] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:13:24,777] {logging_mixin.py:115} INFO - [2025-10-14 15:13:24,777] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:13:24,789] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-10-14 15:13:58,286] {processor.py:153} INFO - Started process (PID=16391) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:13:58,286] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:13:58,287] {logging_mixin.py:115} INFO - [2025-10-14 15:13:58,287] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:13:58,302] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:13:58,328] {logging_mixin.py:115} INFO - [2025-10-14 15:13:58,328] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:13:58,354] {logging_mixin.py:115} INFO - [2025-10-14 15:13:58,354] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:13:58,367] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.087 seconds
+[2025-10-14 15:14:31,710] {processor.py:153} INFO - Started process (PID=16446) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:14:31,711] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:14:31,712] {logging_mixin.py:115} INFO - [2025-10-14 15:14:31,712] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:14:31,728] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:14:31,748] {logging_mixin.py:115} INFO - [2025-10-14 15:14:31,748] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:14:31,767] {logging_mixin.py:115} INFO - [2025-10-14 15:14:31,767] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:14:31,777] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2025-10-14 15:15:09,120] {processor.py:153} INFO - Started process (PID=16558) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:15:09,121] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:15:09,122] {logging_mixin.py:115} INFO - [2025-10-14 15:15:09,122] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:15:09,140] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:15:09,159] {logging_mixin.py:115} INFO - [2025-10-14 15:15:09,159] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:15:09,179] {logging_mixin.py:115} INFO - [2025-10-14 15:15:09,179] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:15:09,189] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2025-10-14 15:15:44,323] {processor.py:153} INFO - Started process (PID=16617) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:15:44,323] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:15:44,324] {logging_mixin.py:115} INFO - [2025-10-14 15:15:44,324] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:15:44,337] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:15:44,356] {logging_mixin.py:115} INFO - [2025-10-14 15:15:44,355] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:15:44,380] {logging_mixin.py:115} INFO - [2025-10-14 15:15:44,379] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:15:44,392] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2025-10-14 15:16:20,207] {processor.py:153} INFO - Started process (PID=16830) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:16:20,208] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:16:20,208] {logging_mixin.py:115} INFO - [2025-10-14 15:16:20,208] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:16:20,224] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:16:20,249] {logging_mixin.py:115} INFO - [2025-10-14 15:16:20,249] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:16:20,270] {logging_mixin.py:115} INFO - [2025-10-14 15:16:20,270] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:16:20,281] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.080 seconds
+[2025-10-14 15:16:53,406] {processor.py:153} INFO - Started process (PID=17042) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:16:53,407] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:16:53,408] {logging_mixin.py:115} INFO - [2025-10-14 15:16:53,408] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:16:53,420] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:16:53,440] {logging_mixin.py:115} INFO - [2025-10-14 15:16:53,440] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:16:53,461] {logging_mixin.py:115} INFO - [2025-10-14 15:16:53,461] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:16:53,472] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-10-14 15:17:26,823] {processor.py:153} INFO - Started process (PID=17097) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:17:26,823] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:17:26,824] {logging_mixin.py:115} INFO - [2025-10-14 15:17:26,824] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:17:26,836] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:17:26,857] {logging_mixin.py:115} INFO - [2025-10-14 15:17:26,857] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:17:26,878] {logging_mixin.py:115} INFO - [2025-10-14 15:17:26,878] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:17:26,889] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.072 seconds
+[2025-10-14 15:58:58,477] {processor.py:153} INFO - Started process (PID=19880) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:58:58,478] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:58:58,479] {logging_mixin.py:115} INFO - [2025-10-14 15:58:58,479] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:58:58,490] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:58:58,510] {logging_mixin.py:115} INFO - [2025-10-14 15:58:58,510] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:58:58,529] {logging_mixin.py:115} INFO - [2025-10-14 15:58:58,529] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:58:58,541] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-10-14 15:59:31,877] {processor.py:153} INFO - Started process (PID=20091) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:59:31,878] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 15:59:31,879] {logging_mixin.py:115} INFO - [2025-10-14 15:59:31,879] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:59:31,894] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 15:59:31,916] {logging_mixin.py:115} INFO - [2025-10-14 15:59:31,916] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:59:31,937] {logging_mixin.py:115} INFO - [2025-10-14 15:59:31,937] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 15:59:31,948] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2025-10-14 16:00:04,488] {processor.py:153} INFO - Started process (PID=20146) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:00:04,489] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:00:04,490] {logging_mixin.py:115} INFO - [2025-10-14 16:00:04,489] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:00:04,509] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:00:04,531] {logging_mixin.py:115} INFO - [2025-10-14 16:00:04,531] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:00:04,550] {logging_mixin.py:115} INFO - [2025-10-14 16:00:04,550] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:00:04,561] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.080 seconds
+[2025-10-14 16:00:37,653] {processor.py:153} INFO - Started process (PID=20201) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:00:37,654] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:00:37,656] {logging_mixin.py:115} INFO - [2025-10-14 16:00:37,655] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:00:37,670] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:00:37,689] {logging_mixin.py:115} INFO - [2025-10-14 16:00:37,689] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:00:37,709] {logging_mixin.py:115} INFO - [2025-10-14 16:00:37,709] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:00:37,720] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.075 seconds
+[2025-10-14 16:01:10,880] {processor.py:153} INFO - Started process (PID=20259) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:01:10,881] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:01:10,882] {logging_mixin.py:115} INFO - [2025-10-14 16:01:10,882] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:01:10,905] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:01:10,925] {logging_mixin.py:115} INFO - [2025-10-14 16:01:10,925] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:01:10,945] {logging_mixin.py:115} INFO - [2025-10-14 16:01:10,945] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:01:10,956] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.085 seconds
+[2025-10-14 16:01:46,105] {processor.py:153} INFO - Started process (PID=20317) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:01:46,106] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:01:46,106] {logging_mixin.py:115} INFO - [2025-10-14 16:01:46,106] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:01:46,118] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:01:46,137] {logging_mixin.py:115} INFO - [2025-10-14 16:01:46,137] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:01:46,157] {logging_mixin.py:115} INFO - [2025-10-14 16:01:46,156] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:01:46,167] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.067 seconds
+[2025-10-14 16:02:20,785] {processor.py:153} INFO - Started process (PID=20376) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:02:20,786] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:02:20,786] {logging_mixin.py:115} INFO - [2025-10-14 16:02:20,786] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:02:20,800] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:02:20,822] {logging_mixin.py:115} INFO - [2025-10-14 16:02:20,822] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:02:20,844] {logging_mixin.py:115} INFO - [2025-10-14 16:02:20,844] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:02:20,856] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2025-10-14 16:02:54,191] {processor.py:153} INFO - Started process (PID=20431) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:02:54,192] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:02:54,192] {logging_mixin.py:115} INFO - [2025-10-14 16:02:54,192] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:02:54,207] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:02:54,229] {logging_mixin.py:115} INFO - [2025-10-14 16:02:54,229] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:02:54,254] {logging_mixin.py:115} INFO - [2025-10-14 16:02:54,254] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:02:54,267] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.080 seconds
+[2025-10-14 16:03:27,571] {processor.py:153} INFO - Started process (PID=20489) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:03:27,572] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:03:27,573] {logging_mixin.py:115} INFO - [2025-10-14 16:03:27,573] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:03:27,589] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:03:27,610] {logging_mixin.py:115} INFO - [2025-10-14 16:03:27,610] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:03:27,631] {logging_mixin.py:115} INFO - [2025-10-14 16:03:27,631] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:03:27,642] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2025-10-14 16:04:01,133] {processor.py:153} INFO - Started process (PID=20595) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:04:01,134] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:04:01,135] {logging_mixin.py:115} INFO - [2025-10-14 16:04:01,135] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:04:01,148] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:04:01,171] {logging_mixin.py:115} INFO - [2025-10-14 16:04:01,171] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:04:01,192] {logging_mixin.py:115} INFO - [2025-10-14 16:04:01,192] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:04:01,203] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.074 seconds
+[2025-10-14 16:04:34,422] {processor.py:153} INFO - Started process (PID=20653) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:04:34,423] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:04:34,423] {logging_mixin.py:115} INFO - [2025-10-14 16:04:34,423] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:04:34,436] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:04:34,455] {logging_mixin.py:115} INFO - [2025-10-14 16:04:34,455] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:04:34,475] {logging_mixin.py:115} INFO - [2025-10-14 16:04:34,475] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:04:34,486] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-10-14 16:05:07,832] {processor.py:153} INFO - Started process (PID=20708) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:05:07,834] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:05:07,835] {logging_mixin.py:115} INFO - [2025-10-14 16:05:07,835] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:05:07,854] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:05:07,879] {logging_mixin.py:115} INFO - [2025-10-14 16:05:07,879] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:05:07,898] {logging_mixin.py:115} INFO - [2025-10-14 16:05:07,898] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:05:07,909] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.086 seconds
+[2025-10-14 16:05:42,499] {processor.py:153} INFO - Started process (PID=20768) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:05:42,500] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:05:42,501] {logging_mixin.py:115} INFO - [2025-10-14 16:05:42,501] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:05:42,512] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:05:42,532] {logging_mixin.py:115} INFO - [2025-10-14 16:05:42,532] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:05:42,551] {logging_mixin.py:115} INFO - [2025-10-14 16:05:42,551] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:05:42,562] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.067 seconds
+[2025-10-14 16:06:16,469] {processor.py:153} INFO - Started process (PID=20826) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:06:16,470] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:06:16,470] {logging_mixin.py:115} INFO - [2025-10-14 16:06:16,470] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:06:16,482] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:06:16,502] {logging_mixin.py:115} INFO - [2025-10-14 16:06:16,502] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:06:16,522] {logging_mixin.py:115} INFO - [2025-10-14 16:06:16,522] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:06:16,532] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.067 seconds
+[2025-10-14 16:06:52,884] {processor.py:153} INFO - Started process (PID=20886) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:06:52,885] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:06:52,886] {logging_mixin.py:115} INFO - [2025-10-14 16:06:52,886] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:06:52,905] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:06:52,925] {logging_mixin.py:115} INFO - [2025-10-14 16:06:52,925] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:06:52,944] {logging_mixin.py:115} INFO - [2025-10-14 16:06:52,944] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:06:52,955] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2025-10-14 16:07:26,991] {processor.py:153} INFO - Started process (PID=21045) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:07:26,992] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:07:26,992] {logging_mixin.py:115} INFO - [2025-10-14 16:07:26,992] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:07:27,005] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:07:27,025] {logging_mixin.py:115} INFO - [2025-10-14 16:07:27,024] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:07:27,044] {logging_mixin.py:115} INFO - [2025-10-14 16:07:27,044] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:07:27,055] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-10-14 16:07:59,698] {processor.py:153} INFO - Started process (PID=21359) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:07:59,700] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:07:59,700] {logging_mixin.py:115} INFO - [2025-10-14 16:07:59,700] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:07:59,715] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:07:59,738] {logging_mixin.py:115} INFO - [2025-10-14 16:07:59,738] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:07:59,763] {logging_mixin.py:115} INFO - [2025-10-14 16:07:59,763] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:07:59,779] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.085 seconds
+[2025-10-14 16:08:34,635] {processor.py:153} INFO - Started process (PID=21519) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:08:34,636] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:08:34,636] {logging_mixin.py:115} INFO - [2025-10-14 16:08:34,636] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:08:34,649] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:08:34,668] {logging_mixin.py:115} INFO - [2025-10-14 16:08:34,668] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:08:34,687] {logging_mixin.py:115} INFO - [2025-10-14 16:08:34,687] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:08:34,698] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-10-14 16:25:33,275] {processor.py:153} INFO - Started process (PID=22778) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:25:33,276] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:25:33,277] {logging_mixin.py:115} INFO - [2025-10-14 16:25:33,277] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:25:33,295] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:25:33,322] {logging_mixin.py:115} INFO - [2025-10-14 16:25:33,322] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:25:33,347] {logging_mixin.py:115} INFO - [2025-10-14 16:25:33,347] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:25:33,359] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.089 seconds
+[2025-10-14 16:26:08,163] {processor.py:153} INFO - Started process (PID=22887) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:26:08,164] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:26:08,164] {logging_mixin.py:115} INFO - [2025-10-14 16:26:08,164] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:26:08,176] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:26:08,196] {logging_mixin.py:115} INFO - [2025-10-14 16:26:08,196] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:26:08,216] {logging_mixin.py:115} INFO - [2025-10-14 16:26:08,215] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:26:08,226] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-10-14 16:26:41,923] {processor.py:153} INFO - Started process (PID=22945) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:26:41,923] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:26:41,924] {logging_mixin.py:115} INFO - [2025-10-14 16:26:41,924] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:26:41,941] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:26:41,967] {logging_mixin.py:115} INFO - [2025-10-14 16:26:41,967] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:26:41,994] {logging_mixin.py:115} INFO - [2025-10-14 16:26:41,994] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:26:42,008] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.095 seconds
+[2025-10-14 16:27:15,683] {processor.py:153} INFO - Started process (PID=23000) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:27:15,684] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:27:15,685] {logging_mixin.py:115} INFO - [2025-10-14 16:27:15,684] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:27:15,697] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:27:15,716] {logging_mixin.py:115} INFO - [2025-10-14 16:27:15,716] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:27:15,736] {logging_mixin.py:115} INFO - [2025-10-14 16:27:15,736] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:27:15,746] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.067 seconds
+[2025-10-14 16:27:50,393] {processor.py:153} INFO - Started process (PID=23161) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:27:50,394] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:27:50,395] {logging_mixin.py:115} INFO - [2025-10-14 16:27:50,395] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:27:50,413] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:27:50,434] {logging_mixin.py:115} INFO - [2025-10-14 16:27:50,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:27:50,456] {logging_mixin.py:115} INFO - [2025-10-14 16:27:50,456] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:27:50,468] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.081 seconds
+[2025-10-14 16:28:24,626] {processor.py:153} INFO - Started process (PID=23322) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:28:24,627] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:28:24,628] {logging_mixin.py:115} INFO - [2025-10-14 16:28:24,627] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:28:24,640] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:28:24,660] {logging_mixin.py:115} INFO - [2025-10-14 16:28:24,660] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:28:24,680] {logging_mixin.py:115} INFO - [2025-10-14 16:28:24,680] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:28:24,692] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-10-14 16:28:58,850] {processor.py:153} INFO - Started process (PID=23377) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:28:58,850] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:28:58,851] {logging_mixin.py:115} INFO - [2025-10-14 16:28:58,851] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:28:58,864] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:28:58,884] {logging_mixin.py:115} INFO - [2025-10-14 16:28:58,884] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:28:58,905] {logging_mixin.py:115} INFO - [2025-10-14 16:28:58,905] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:28:58,917] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.072 seconds
+[2025-10-14 16:29:32,049] {processor.py:153} INFO - Started process (PID=23592) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:29:32,049] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-10-14 16:29:32,050] {logging_mixin.py:115} INFO - [2025-10-14 16:29:32,050] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:29:32,063] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-10-14 16:29:32,084] {logging_mixin.py:115} INFO - [2025-10-14 16:29:32,084] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:29:32,106] {logging_mixin.py:115} INFO - [2025-10-14 16:29:32,106] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-10-13T00:00:00+00:00, run_after=2025-10-14T00:00:00+00:00
+[2025-10-14 16:29:32,121] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
