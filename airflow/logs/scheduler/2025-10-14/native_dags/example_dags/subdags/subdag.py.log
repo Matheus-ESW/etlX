@@ -1,0 +1,295 @@
+[2025-10-14 14:56:48,965] {processor.py:153} INFO - Started process (PID=13085) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:56:48,965] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 14:56:48,966] {logging_mixin.py:115} INFO - [2025-10-14 14:56:48,966] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:56:48,968] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:56:48,980] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2025-10-14 14:57:29,452] {processor.py:153} INFO - Started process (PID=13510) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:57:29,452] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 14:57:29,453] {logging_mixin.py:115} INFO - [2025-10-14 14:57:29,453] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:57:29,455] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:57:29,471] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 14:57:59,996] {processor.py:153} INFO - Started process (PID=13635) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:57:59,996] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 14:57:59,997] {logging_mixin.py:115} INFO - [2025-10-14 14:57:59,997] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:57:59,999] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:58:00,014] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 14:58:31,698] {processor.py:153} INFO - Started process (PID=13716) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:58:31,699] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 14:58:31,700] {logging_mixin.py:115} INFO - [2025-10-14 14:58:31,700] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:58:31,702] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:58:31,717] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 14:59:03,771] {processor.py:153} INFO - Started process (PID=13873) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:59:03,771] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 14:59:03,772] {logging_mixin.py:115} INFO - [2025-10-14 14:59:03,772] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:59:03,774] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:59:03,789] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 14:59:38,799] {processor.py:153} INFO - Started process (PID=13982) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:59:38,800] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 14:59:38,801] {logging_mixin.py:115} INFO - [2025-10-14 14:59:38,801] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:59:38,804] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 14:59:38,819] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2025-10-14 15:00:09,743] {processor.py:153} INFO - Started process (PID=14035) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:00:09,743] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:00:09,744] {logging_mixin.py:115} INFO - [2025-10-14 15:00:09,744] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:00:09,747] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:00:09,765] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2025-10-14 15:00:39,948] {processor.py:153} INFO - Started process (PID=14137) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:00:39,948] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:00:39,949] {logging_mixin.py:115} INFO - [2025-10-14 15:00:39,949] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:00:39,951] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:00:39,966] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 15:01:11,528] {processor.py:153} INFO - Started process (PID=14444) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:01:11,529] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:01:11,529] {logging_mixin.py:115} INFO - [2025-10-14 15:01:11,529] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:01:11,532] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:01:11,547] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 15:01:42,339] {processor.py:153} INFO - Started process (PID=14548) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:01:42,339] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:01:42,340] {logging_mixin.py:115} INFO - [2025-10-14 15:01:42,340] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:01:42,342] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:01:42,357] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-14 15:02:14,018] {processor.py:153} INFO - Started process (PID=14806) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:02:14,019] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:02:14,019] {logging_mixin.py:115} INFO - [2025-10-14 15:02:14,019] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:02:14,021] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:02:14,037] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 15:02:49,253] {processor.py:153} INFO - Started process (PID=14914) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:02:49,254] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:02:49,255] {logging_mixin.py:115} INFO - [2025-10-14 15:02:49,255] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:02:49,257] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:02:49,276] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-10-14 15:03:21,700] {processor.py:153} INFO - Started process (PID=15023) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:03:21,700] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:03:21,701] {logging_mixin.py:115} INFO - [2025-10-14 15:03:21,701] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:03:21,704] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:03:21,720] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-14 15:09:40,802] {processor.py:153} INFO - Started process (PID=15652) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:09:40,802] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:09:40,803] {logging_mixin.py:115} INFO - [2025-10-14 15:09:40,803] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:09:40,805] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:09:40,820] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 15:10:16,434] {processor.py:153} INFO - Started process (PID=15918) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:10:16,435] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:10:16,435] {logging_mixin.py:115} INFO - [2025-10-14 15:10:16,435] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:10:16,438] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:10:16,454] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-14 15:10:47,293] {processor.py:153} INFO - Started process (PID=15967) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:10:47,294] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:10:47,331] {logging_mixin.py:115} INFO - [2025-10-14 15:10:47,294] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:10:47,334] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:10:47,359] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2025-10-14 15:11:18,502] {processor.py:153} INFO - Started process (PID=16121) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:11:18,503] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:11:18,503] {logging_mixin.py:115} INFO - [2025-10-14 15:11:18,503] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:11:18,506] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:11:18,521] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 15:11:50,190] {processor.py:153} INFO - Started process (PID=16175) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:11:50,191] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:11:50,192] {logging_mixin.py:115} INFO - [2025-10-14 15:11:50,192] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:11:50,194] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:11:50,210] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2025-10-14 15:12:22,647] {processor.py:153} INFO - Started process (PID=16231) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:12:22,648] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:12:22,649] {logging_mixin.py:115} INFO - [2025-10-14 15:12:22,649] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:12:22,651] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:12:22,666] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 15:12:55,412] {processor.py:153} INFO - Started process (PID=16285) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:12:55,413] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:12:55,414] {logging_mixin.py:115} INFO - [2025-10-14 15:12:55,414] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:12:55,417] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:12:55,433] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-10-14 15:13:28,007] {processor.py:153} INFO - Started process (PID=16339) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:13:28,008] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:13:28,008] {logging_mixin.py:115} INFO - [2025-10-14 15:13:28,008] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:13:28,011] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:13:28,027] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-14 15:14:01,566] {processor.py:153} INFO - Started process (PID=16394) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:14:01,566] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:14:01,567] {logging_mixin.py:115} INFO - [2025-10-14 15:14:01,567] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:14:01,569] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:14:01,583] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 15:14:32,835] {processor.py:153} INFO - Started process (PID=16447) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:14:32,836] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:14:32,837] {logging_mixin.py:115} INFO - [2025-10-14 15:14:32,837] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:14:32,839] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:14:32,853] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 15:15:06,811] {processor.py:153} INFO - Started process (PID=16556) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:15:06,812] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:15:06,813] {logging_mixin.py:115} INFO - [2025-10-14 15:15:06,813] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:15:06,815] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:15:06,832] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-14 15:15:37,747] {processor.py:153} INFO - Started process (PID=16607) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:15:37,747] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:15:37,748] {logging_mixin.py:115} INFO - [2025-10-14 15:15:37,748] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:15:37,750] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:15:37,765] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 15:16:08,049] {processor.py:153} INFO - Started process (PID=16706) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:16:08,049] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:16:08,050] {logging_mixin.py:115} INFO - [2025-10-14 15:16:08,050] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:16:08,052] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:16:08,068] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2025-10-14 15:16:38,328] {processor.py:153} INFO - Started process (PID=16926) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:16:38,329] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:16:38,330] {logging_mixin.py:115} INFO - [2025-10-14 15:16:38,330] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:16:38,332] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:16:38,353] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2025-10-14 15:17:10,585] {processor.py:153} INFO - Started process (PID=17069) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:17:10,586] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:17:10,586] {logging_mixin.py:115} INFO - [2025-10-14 15:17:10,586] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:17:10,588] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:17:10,603] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 15:17:41,587] {processor.py:153} INFO - Started process (PID=17171) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:17:41,588] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:17:41,588] {logging_mixin.py:115} INFO - [2025-10-14 15:17:41,588] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:17:41,592] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:17:41,610] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-10-14 15:58:37,405] {processor.py:153} INFO - Started process (PID=19691) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:58:37,406] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:58:37,407] {logging_mixin.py:115} INFO - [2025-10-14 15:58:37,407] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:58:37,415] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:58:37,480] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.081 seconds
+[2025-10-14 15:59:12,807] {processor.py:153} INFO - Started process (PID=20057) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:59:12,808] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:59:12,808] {logging_mixin.py:115} INFO - [2025-10-14 15:59:12,808] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:59:12,811] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:59:12,826] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 15:59:43,871] {processor.py:153} INFO - Started process (PID=20110) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:59:43,871] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 15:59:43,872] {logging_mixin.py:115} INFO - [2025-10-14 15:59:43,872] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:59:43,874] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 15:59:43,888] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-10-14 16:00:14,421] {processor.py:153} INFO - Started process (PID=20162) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:00:14,422] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:00:14,423] {logging_mixin.py:115} INFO - [2025-10-14 16:00:14,423] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:00:14,427] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:00:14,447] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2025-10-14 16:00:46,884] {processor.py:153} INFO - Started process (PID=20216) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:00:46,884] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:00:46,885] {logging_mixin.py:115} INFO - [2025-10-14 16:00:46,885] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:00:46,887] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:00:46,901] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 16:01:17,920] {processor.py:153} INFO - Started process (PID=20269) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:01:17,920] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:01:17,921] {logging_mixin.py:115} INFO - [2025-10-14 16:01:17,921] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:01:17,924] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:01:17,940] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2025-10-14 16:01:49,280] {processor.py:153} INFO - Started process (PID=20321) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:01:49,281] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:01:49,281] {logging_mixin.py:115} INFO - [2025-10-14 16:01:49,281] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:01:49,284] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:01:49,300] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2025-10-14 16:02:19,661] {processor.py:153} INFO - Started process (PID=20372) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:02:19,662] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:02:19,663] {logging_mixin.py:115} INFO - [2025-10-14 16:02:19,663] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:02:19,665] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:02:19,680] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-10-14 16:02:50,016] {processor.py:153} INFO - Started process (PID=20424) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:02:50,017] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:02:50,018] {logging_mixin.py:115} INFO - [2025-10-14 16:02:50,018] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:02:50,021] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:02:50,040] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2025-10-14 16:03:20,558] {processor.py:153} INFO - Started process (PID=20476) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:03:20,559] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:03:20,560] {logging_mixin.py:115} INFO - [2025-10-14 16:03:20,559] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:03:20,562] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:03:20,577] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 16:03:52,158] {processor.py:153} INFO - Started process (PID=20580) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:03:52,159] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:03:52,160] {logging_mixin.py:115} INFO - [2025-10-14 16:03:52,160] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:03:52,164] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:03:52,184] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2025-10-14 16:04:25,178] {processor.py:153} INFO - Started process (PID=20635) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:04:25,179] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:04:25,180] {logging_mixin.py:115} INFO - [2025-10-14 16:04:25,180] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:04:25,183] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:04:25,201] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-10-14 16:04:55,458] {processor.py:153} INFO - Started process (PID=20687) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:04:55,459] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:04:55,460] {logging_mixin.py:115} INFO - [2025-10-14 16:04:55,460] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:04:55,463] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:04:55,481] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-10-14 16:05:26,870] {processor.py:153} INFO - Started process (PID=20740) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:05:26,871] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:05:26,872] {logging_mixin.py:115} INFO - [2025-10-14 16:05:26,872] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:05:26,875] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:05:26,894] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2025-10-14 16:06:01,172] {processor.py:153} INFO - Started process (PID=20798) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:06:01,173] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:06:01,174] {logging_mixin.py:115} INFO - [2025-10-14 16:06:01,174] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:06:01,178] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:06:01,195] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2025-10-14 16:06:33,262] {processor.py:153} INFO - Started process (PID=20852) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:06:33,263] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:06:33,264] {logging_mixin.py:115} INFO - [2025-10-14 16:06:33,264] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:06:33,266] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:06:33,281] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 16:07:07,262] {processor.py:153} INFO - Started process (PID=20910) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:07:07,263] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:07:07,264] {logging_mixin.py:115} INFO - [2025-10-14 16:07:07,264] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:07:07,269] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:07:07,300] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2025-10-14 16:07:37,806] {processor.py:153} INFO - Started process (PID=21138) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:07:37,806] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:07:37,808] {logging_mixin.py:115} INFO - [2025-10-14 16:07:37,807] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:07:37,811] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:07:37,828] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2025-10-14 16:08:08,574] {processor.py:153} INFO - Started process (PID=21425) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:08:08,575] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:08:08,576] {logging_mixin.py:115} INFO - [2025-10-14 16:08:08,576] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:08:08,578] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:08:08,594] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 16:08:41,266] {processor.py:153} INFO - Started process (PID=21581) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:08:41,266] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:08:41,267] {logging_mixin.py:115} INFO - [2025-10-14 16:08:41,267] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:08:41,269] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:08:41,285] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 16:25:14,400] {processor.py:153} INFO - Started process (PID=22586) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:25:14,401] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:25:14,402] {logging_mixin.py:115} INFO - [2025-10-14 16:25:14,402] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:25:14,404] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:25:14,416] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2025-10-14 16:25:48,574] {processor.py:153} INFO - Started process (PID=22856) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:25:48,574] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:25:48,575] {logging_mixin.py:115} INFO - [2025-10-14 16:25:48,575] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:25:48,577] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:25:48,592] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 16:26:20,858] {processor.py:153} INFO - Started process (PID=22909) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:26:20,859] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:26:20,859] {logging_mixin.py:115} INFO - [2025-10-14 16:26:20,859] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:26:20,862] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:26:20,877] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 16:26:51,993] {processor.py:153} INFO - Started process (PID=22961) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:26:51,993] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:26:51,994] {logging_mixin.py:115} INFO - [2025-10-14 16:26:51,994] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:26:51,997] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:26:52,012] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 16:27:23,480] {processor.py:153} INFO - Started process (PID=23014) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:27:23,481] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:27:23,482] {logging_mixin.py:115} INFO - [2025-10-14 16:27:23,482] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:27:23,485] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:27:23,503] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-10-14 16:27:54,377] {processor.py:153} INFO - Started process (PID=23168) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:27:54,377] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:27:54,378] {logging_mixin.py:115} INFO - [2025-10-14 16:27:54,378] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:27:54,380] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:27:54,395] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 16:28:26,398] {processor.py:153} INFO - Started process (PID=23324) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:28:26,399] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:28:26,399] {logging_mixin.py:115} INFO - [2025-10-14 16:28:26,399] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:28:26,402] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:28:26,417] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-14 16:29:01,129] {processor.py:153} INFO - Started process (PID=23382) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:29:01,129] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:29:01,130] {logging_mixin.py:115} INFO - [2025-10-14 16:29:01,130] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:29:01,132] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:29:01,146] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-14 16:29:33,552] {processor.py:153} INFO - Started process (PID=23597) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:29:33,553] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:29:33,554] {logging_mixin.py:115} INFO - [2025-10-14 16:29:33,554] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:29:33,557] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:29:33,571] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-10-14 16:36:00,052] {processor.py:153} INFO - Started process (PID=24410) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:36:00,053] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-14 16:36:00,054] {logging_mixin.py:115} INFO - [2025-10-14 16:36:00,054] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:36:00,057] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-14 16:36:00,071] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds

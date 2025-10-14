@@ -1,0 +1,396 @@
+[2025-10-14 14:56:58,871] {processor.py:153} INFO - Started process (PID=13206) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:56:58,872] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 14:56:58,873] {logging_mixin.py:115} INFO - [2025-10-14 14:56:58,873] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:56:58,896] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:56:58,970] {logging_mixin.py:115} INFO - [2025-10-14 14:56:58,970] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2025-10-14 14:56:58,980] {logging_mixin.py:115} INFO - [2025-10-14 14:56:58,979] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2025-10-14 14:56:58,987] {logging_mixin.py:115} INFO - [2025-10-14 14:56:58,986] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2025-10-14 14:56:58,987] {logging_mixin.py:115} INFO - [2025-10-14 14:56:58,987] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:56:58,994] {logging_mixin.py:115} INFO - [2025-10-14 14:56:58,994] {dag.py:2398} INFO - Creating ORM DAG for example_trigger_target_dag
+[2025-10-14 14:56:59,002] {logging_mixin.py:115} INFO - [2025-10-14 14:56:59,002] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 14:56:59,018] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-10-14 14:57:37,303] {processor.py:153} INFO - Started process (PID=13524) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:57:37,304] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 14:57:37,305] {logging_mixin.py:115} INFO - [2025-10-14 14:57:37,305] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:57:37,333] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:57:37,387] {logging_mixin.py:115} INFO - [2025-10-14 14:57:37,387] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:57:37,424] {logging_mixin.py:115} INFO - [2025-10-14 14:57:37,424] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 14:57:37,447] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.149 seconds
+[2025-10-14 14:58:11,057] {processor.py:153} INFO - Started process (PID=13681) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:58:11,058] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 14:58:11,059] {logging_mixin.py:115} INFO - [2025-10-14 14:58:11,059] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:58:11,085] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:58:11,107] {logging_mixin.py:115} INFO - [2025-10-14 14:58:11,107] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:58:11,122] {logging_mixin.py:115} INFO - [2025-10-14 14:58:11,122] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 14:58:11,132] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2025-10-14 14:58:45,566] {processor.py:153} INFO - Started process (PID=13739) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:58:45,566] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 14:58:45,567] {logging_mixin.py:115} INFO - [2025-10-14 14:58:45,567] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:58:45,592] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:58:45,614] {logging_mixin.py:115} INFO - [2025-10-14 14:58:45,614] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:58:45,629] {logging_mixin.py:115} INFO - [2025-10-14 14:58:45,629] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 14:58:45,639] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2025-10-14 14:59:18,196] {processor.py:153} INFO - Started process (PID=13950) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:59:18,197] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 14:59:18,198] {logging_mixin.py:115} INFO - [2025-10-14 14:59:18,198] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:59:18,227] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:59:18,250] {logging_mixin.py:115} INFO - [2025-10-14 14:59:18,249] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:59:18,265] {logging_mixin.py:115} INFO - [2025-10-14 14:59:18,265] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 14:59:18,277] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2025-10-14 14:59:50,978] {processor.py:153} INFO - Started process (PID=14003) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:59:50,979] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 14:59:50,981] {logging_mixin.py:115} INFO - [2025-10-14 14:59:50,980] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:59:51,007] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 14:59:51,037] {logging_mixin.py:115} INFO - [2025-10-14 14:59:51,037] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:59:51,062] {logging_mixin.py:115} INFO - [2025-10-14 14:59:51,062] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 14:59:51,078] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.106 seconds
+[2025-10-14 15:00:23,674] {processor.py:153} INFO - Started process (PID=14058) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:00:23,675] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:00:23,675] {logging_mixin.py:115} INFO - [2025-10-14 15:00:23,675] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:00:23,702] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:00:23,734] {logging_mixin.py:115} INFO - [2025-10-14 15:00:23,734] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:00:23,757] {logging_mixin.py:115} INFO - [2025-10-14 15:00:23,756] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:00:23,771] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.103 seconds
+[2025-10-14 15:00:57,621] {processor.py:153} INFO - Started process (PID=14319) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:00:57,623] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:00:57,624] {logging_mixin.py:115} INFO - [2025-10-14 15:00:57,624] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:00:57,653] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:00:57,676] {logging_mixin.py:115} INFO - [2025-10-14 15:00:57,676] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:00:57,695] {logging_mixin.py:115} INFO - [2025-10-14 15:00:57,695] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:00:57,707] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.095 seconds
+[2025-10-14 15:01:30,897] {processor.py:153} INFO - Started process (PID=14476) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:01:30,898] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:01:30,899] {logging_mixin.py:115} INFO - [2025-10-14 15:01:30,898] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:01:30,918] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:01:30,941] {logging_mixin.py:115} INFO - [2025-10-14 15:01:30,941] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:01:30,956] {logging_mixin.py:115} INFO - [2025-10-14 15:01:30,956] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:01:30,969] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2025-10-14 15:02:05,019] {processor.py:153} INFO - Started process (PID=14790) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:02:05,019] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:02:05,020] {logging_mixin.py:115} INFO - [2025-10-14 15:02:05,020] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:02:05,042] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:02:05,066] {logging_mixin.py:115} INFO - [2025-10-14 15:02:05,066] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:02:05,084] {logging_mixin.py:115} INFO - [2025-10-14 15:02:05,084] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:02:05,099] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2025-10-14 15:02:38,893] {processor.py:153} INFO - Started process (PID=14847) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:02:38,894] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:02:38,894] {logging_mixin.py:115} INFO - [2025-10-14 15:02:38,894] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:02:38,926] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:02:38,957] {logging_mixin.py:115} INFO - [2025-10-14 15:02:38,957] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:02:38,979] {logging_mixin.py:115} INFO - [2025-10-14 15:02:38,979] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:02:38,996] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.109 seconds
+[2025-10-14 15:03:11,295] {processor.py:153} INFO - Started process (PID=15004) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:03:11,296] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:03:11,296] {logging_mixin.py:115} INFO - [2025-10-14 15:03:11,296] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:03:11,317] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:03:11,340] {logging_mixin.py:115} INFO - [2025-10-14 15:03:11,340] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:03:11,357] {logging_mixin.py:115} INFO - [2025-10-14 15:03:11,357] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:03:11,369] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2025-10-14 15:09:49,459] {processor.py:153} INFO - Started process (PID=15772) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:09:49,460] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:09:49,460] {logging_mixin.py:115} INFO - [2025-10-14 15:09:49,460] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:09:49,483] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:09:49,507] {logging_mixin.py:115} INFO - [2025-10-14 15:09:49,507] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:09:49,525] {logging_mixin.py:115} INFO - [2025-10-14 15:09:49,524] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:09:49,538] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2025-10-14 15:10:24,563] {processor.py:153} INFO - Started process (PID=15929) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:10:24,564] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:10:24,565] {logging_mixin.py:115} INFO - [2025-10-14 15:10:24,565] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:10:24,586] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:10:24,609] {logging_mixin.py:115} INFO - [2025-10-14 15:10:24,609] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:10:24,626] {logging_mixin.py:115} INFO - [2025-10-14 15:10:24,625] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:10:24,638] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2025-10-14 15:10:58,271] {processor.py:153} INFO - Started process (PID=15987) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:10:58,272] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:10:58,272] {logging_mixin.py:115} INFO - [2025-10-14 15:10:58,272] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:10:58,298] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:10:58,322] {logging_mixin.py:115} INFO - [2025-10-14 15:10:58,322] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:10:58,339] {logging_mixin.py:115} INFO - [2025-10-14 15:10:58,339] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:10:58,351] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.087 seconds
+[2025-10-14 15:11:31,841] {processor.py:153} INFO - Started process (PID=16145) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:11:31,841] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:11:31,842] {logging_mixin.py:115} INFO - [2025-10-14 15:11:31,842] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:11:31,864] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:11:31,887] {logging_mixin.py:115} INFO - [2025-10-14 15:11:31,887] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:11:31,908] {logging_mixin.py:115} INFO - [2025-10-14 15:11:31,908] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:11:31,927] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.093 seconds
+[2025-10-14 15:12:06,945] {processor.py:153} INFO - Started process (PID=16203) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:12:06,946] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:12:06,947] {logging_mixin.py:115} INFO - [2025-10-14 15:12:06,947] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:12:06,971] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:12:06,994] {logging_mixin.py:115} INFO - [2025-10-14 15:12:06,993] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:12:07,011] {logging_mixin.py:115} INFO - [2025-10-14 15:12:07,011] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:12:07,022] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2025-10-14 15:12:41,512] {processor.py:153} INFO - Started process (PID=16261) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:12:41,512] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:12:41,513] {logging_mixin.py:115} INFO - [2025-10-14 15:12:41,513] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:12:41,531] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:12:41,550] {logging_mixin.py:115} INFO - [2025-10-14 15:12:41,550] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:12:41,565] {logging_mixin.py:115} INFO - [2025-10-14 15:12:41,565] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:12:41,575] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2025-10-14 15:13:13,456] {processor.py:153} INFO - Started process (PID=16316) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:13:13,457] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:13:13,458] {logging_mixin.py:115} INFO - [2025-10-14 15:13:13,458] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:13:13,484] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:13:13,507] {logging_mixin.py:115} INFO - [2025-10-14 15:13:13,507] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:13:13,522] {logging_mixin.py:115} INFO - [2025-10-14 15:13:13,522] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:13:13,532] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2025-10-14 15:13:48,612] {processor.py:153} INFO - Started process (PID=16374) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:13:48,612] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:13:48,613] {logging_mixin.py:115} INFO - [2025-10-14 15:13:48,613] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:13:48,636] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:13:48,662] {logging_mixin.py:115} INFO - [2025-10-14 15:13:48,661] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:13:48,680] {logging_mixin.py:115} INFO - [2025-10-14 15:13:48,680] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:13:48,693] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.087 seconds
+[2025-10-14 15:14:20,008] {processor.py:153} INFO - Started process (PID=16426) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:14:20,009] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:14:20,009] {logging_mixin.py:115} INFO - [2025-10-14 15:14:20,009] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:14:20,045] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:14:20,084] {logging_mixin.py:115} INFO - [2025-10-14 15:14:20,083] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:14:20,105] {logging_mixin.py:115} INFO - [2025-10-14 15:14:20,105] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:14:20,135] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.132 seconds
+[2025-10-14 15:14:52,427] {processor.py:153} INFO - Started process (PID=16533) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:14:52,428] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:14:52,429] {logging_mixin.py:115} INFO - [2025-10-14 15:14:52,428] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:14:52,460] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:14:52,490] {logging_mixin.py:115} INFO - [2025-10-14 15:14:52,490] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:14:52,506] {logging_mixin.py:115} INFO - [2025-10-14 15:14:52,506] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:14:52,516] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.097 seconds
+[2025-10-14 15:15:27,440] {processor.py:153} INFO - Started process (PID=16588) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:15:27,440] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:15:27,441] {logging_mixin.py:115} INFO - [2025-10-14 15:15:27,441] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:15:27,461] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:15:27,486] {logging_mixin.py:115} INFO - [2025-10-14 15:15:27,486] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:15:27,505] {logging_mixin.py:115} INFO - [2025-10-14 15:15:27,504] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:15:27,517] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2025-10-14 15:15:59,472] {processor.py:153} INFO - Started process (PID=16644) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:15:59,472] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:15:59,473] {logging_mixin.py:115} INFO - [2025-10-14 15:15:59,473] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:15:59,493] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:15:59,514] {logging_mixin.py:115} INFO - [2025-10-14 15:15:59,514] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:15:59,529] {logging_mixin.py:115} INFO - [2025-10-14 15:15:59,529] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:15:59,540] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2025-10-14 15:16:34,307] {processor.py:153} INFO - Started process (PID=16875) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:16:34,307] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:16:34,308] {logging_mixin.py:115} INFO - [2025-10-14 15:16:34,308] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:16:34,328] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:16:34,355] {logging_mixin.py:115} INFO - [2025-10-14 15:16:34,355] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:16:34,374] {logging_mixin.py:115} INFO - [2025-10-14 15:16:34,374] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:16:34,387] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2025-10-14 15:17:06,515] {processor.py:153} INFO - Started process (PID=17062) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:17:06,515] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:17:06,516] {logging_mixin.py:115} INFO - [2025-10-14 15:17:06,516] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:17:06,535] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:17:06,556] {logging_mixin.py:115} INFO - [2025-10-14 15:17:06,556] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:17:06,571] {logging_mixin.py:115} INFO - [2025-10-14 15:17:06,571] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:17:06,582] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-10-14 15:17:42,733] {processor.py:153} INFO - Started process (PID=17172) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:17:42,734] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:17:42,735] {logging_mixin.py:115} INFO - [2025-10-14 15:17:42,735] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:17:42,758] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:17:42,782] {logging_mixin.py:115} INFO - [2025-10-14 15:17:42,782] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:17:42,802] {logging_mixin.py:115} INFO - [2025-10-14 15:17:42,802] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:17:42,813] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.086 seconds
+[2025-10-14 15:58:46,910] {processor.py:153} INFO - Started process (PID=19811) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:58:46,911] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:58:46,912] {logging_mixin.py:115} INFO - [2025-10-14 15:58:46,912] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:58:46,931] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:58:46,952] {logging_mixin.py:115} INFO - [2025-10-14 15:58:46,952] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:58:46,968] {logging_mixin.py:115} INFO - [2025-10-14 15:58:46,968] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:58:46,979] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2025-10-14 15:59:21,641] {processor.py:153} INFO - Started process (PID=20071) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:59:21,642] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:59:21,643] {logging_mixin.py:115} INFO - [2025-10-14 15:59:21,643] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:59:21,662] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:59:21,684] {logging_mixin.py:115} INFO - [2025-10-14 15:59:21,683] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:59:21,698] {logging_mixin.py:115} INFO - [2025-10-14 15:59:21,698] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:59:21,709] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2025-10-14 15:59:53,336] {processor.py:153} INFO - Started process (PID=20126) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:59:53,337] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 15:59:53,337] {logging_mixin.py:115} INFO - [2025-10-14 15:59:53,337] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:59:53,363] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 15:59:53,386] {logging_mixin.py:115} INFO - [2025-10-14 15:59:53,386] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:59:53,403] {logging_mixin.py:115} INFO - [2025-10-14 15:59:53,403] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 15:59:53,414] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2025-10-14 16:00:26,330] {processor.py:153} INFO - Started process (PID=20184) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:00:26,331] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:00:26,331] {logging_mixin.py:115} INFO - [2025-10-14 16:00:26,331] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:00:26,349] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:00:26,371] {logging_mixin.py:115} INFO - [2025-10-14 16:00:26,371] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:00:26,387] {logging_mixin.py:115} INFO - [2025-10-14 16:00:26,387] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:00:26,397] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2025-10-14 16:01:00,829] {processor.py:153} INFO - Started process (PID=20242) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:01:00,830] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:01:00,830] {logging_mixin.py:115} INFO - [2025-10-14 16:01:00,830] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:01:00,849] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:01:00,870] {logging_mixin.py:115} INFO - [2025-10-14 16:01:00,870] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:01:00,885] {logging_mixin.py:115} INFO - [2025-10-14 16:01:00,885] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:01:00,896] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-10-14 16:01:33,334] {processor.py:153} INFO - Started process (PID=20296) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:01:33,335] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:01:33,336] {logging_mixin.py:115} INFO - [2025-10-14 16:01:33,335] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:01:33,366] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:01:33,390] {logging_mixin.py:115} INFO - [2025-10-14 16:01:33,390] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:01:33,405] {logging_mixin.py:115} INFO - [2025-10-14 16:01:33,405] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:01:33,416] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.089 seconds
+[2025-10-14 16:02:08,503] {processor.py:153} INFO - Started process (PID=20354) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:02:08,504] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:02:08,504] {logging_mixin.py:115} INFO - [2025-10-14 16:02:08,504] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:02:08,523] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:02:08,546] {logging_mixin.py:115} INFO - [2025-10-14 16:02:08,546] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:02:08,562] {logging_mixin.py:115} INFO - [2025-10-14 16:02:08,562] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:02:08,574] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2025-10-14 16:02:39,927] {processor.py:153} INFO - Started process (PID=20408) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:02:39,928] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:02:39,929] {logging_mixin.py:115} INFO - [2025-10-14 16:02:39,929] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:02:39,948] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:02:39,970] {logging_mixin.py:115} INFO - [2025-10-14 16:02:39,970] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:02:39,986] {logging_mixin.py:115} INFO - [2025-10-14 16:02:39,986] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:02:39,996] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2025-10-14 16:03:12,018] {processor.py:153} INFO - Started process (PID=20462) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:03:12,019] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:03:12,020] {logging_mixin.py:115} INFO - [2025-10-14 16:03:12,019] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:03:12,038] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:03:12,059] {logging_mixin.py:115} INFO - [2025-10-14 16:03:12,059] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:03:12,074] {logging_mixin.py:115} INFO - [2025-10-14 16:03:12,074] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:03:12,085] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2025-10-14 16:03:46,692] {processor.py:153} INFO - Started process (PID=20571) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:03:46,692] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:03:46,693] {logging_mixin.py:115} INFO - [2025-10-14 16:03:46,693] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:03:46,715] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:03:46,740] {logging_mixin.py:115} INFO - [2025-10-14 16:03:46,740] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:03:46,760] {logging_mixin.py:115} INFO - [2025-10-14 16:03:46,760] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:03:46,773] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.087 seconds
+[2025-10-14 16:04:18,888] {processor.py:153} INFO - Started process (PID=20625) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:04:18,889] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:04:18,890] {logging_mixin.py:115} INFO - [2025-10-14 16:04:18,890] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:04:18,917] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:04:18,937] {logging_mixin.py:115} INFO - [2025-10-14 16:04:18,937] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:04:18,953] {logging_mixin.py:115} INFO - [2025-10-14 16:04:18,953] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:04:18,965] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2025-10-14 16:04:51,838] {processor.py:153} INFO - Started process (PID=20680) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:04:51,839] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:04:51,839] {logging_mixin.py:115} INFO - [2025-10-14 16:04:51,839] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:04:51,866] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:04:51,890] {logging_mixin.py:115} INFO - [2025-10-14 16:04:51,890] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:04:51,906] {logging_mixin.py:115} INFO - [2025-10-14 16:04:51,906] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:04:51,918] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2025-10-14 16:05:23,270] {processor.py:153} INFO - Started process (PID=20736) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:05:23,270] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:05:23,271] {logging_mixin.py:115} INFO - [2025-10-14 16:05:23,271] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:05:23,289] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:05:23,310] {logging_mixin.py:115} INFO - [2025-10-14 16:05:23,310] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:05:23,325] {logging_mixin.py:115} INFO - [2025-10-14 16:05:23,325] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:05:23,335] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-10-14 16:05:55,903] {processor.py:153} INFO - Started process (PID=20790) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:05:55,904] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:05:55,905] {logging_mixin.py:115} INFO - [2025-10-14 16:05:55,905] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:05:55,932] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:05:55,954] {logging_mixin.py:115} INFO - [2025-10-14 16:05:55,953] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:05:55,969] {logging_mixin.py:115} INFO - [2025-10-14 16:05:55,969] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:05:55,979] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2025-10-14 16:06:27,023] {processor.py:153} INFO - Started process (PID=20843) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:06:27,024] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:06:27,025] {logging_mixin.py:115} INFO - [2025-10-14 16:06:27,025] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:06:27,048] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:06:27,069] {logging_mixin.py:115} INFO - [2025-10-14 16:06:27,069] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:06:27,084] {logging_mixin.py:115} INFO - [2025-10-14 16:06:27,084] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:06:27,094] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2025-10-14 16:06:59,160] {processor.py:153} INFO - Started process (PID=20896) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:06:59,161] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:06:59,161] {logging_mixin.py:115} INFO - [2025-10-14 16:06:59,161] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:06:59,181] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:06:59,204] {logging_mixin.py:115} INFO - [2025-10-14 16:06:59,204] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:06:59,221] {logging_mixin.py:115} INFO - [2025-10-14 16:06:59,221] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:06:59,232] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2025-10-14 16:07:33,501] {processor.py:153} INFO - Started process (PID=21108) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:07:33,502] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:07:33,502] {logging_mixin.py:115} INFO - [2025-10-14 16:07:33,502] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:07:33,525] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:07:33,552] {logging_mixin.py:115} INFO - [2025-10-14 16:07:33,552] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:07:33,572] {logging_mixin.py:115} INFO - [2025-10-14 16:07:33,572] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:07:33,587] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2025-10-14 16:08:04,662] {processor.py:153} INFO - Started process (PID=21367) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:08:04,663] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:08:04,663] {logging_mixin.py:115} INFO - [2025-10-14 16:08:04,663] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:08:04,732] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:08:04,781] {logging_mixin.py:115} INFO - [2025-10-14 16:08:04,781] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:08:04,803] {logging_mixin.py:115} INFO - [2025-10-14 16:08:04,803] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:08:04,815] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.158 seconds
+[2025-10-14 16:08:36,558] {processor.py:153} INFO - Started process (PID=21522) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:08:36,560] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:08:36,561] {logging_mixin.py:115} INFO - [2025-10-14 16:08:36,561] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:08:36,591] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:08:36,614] {logging_mixin.py:115} INFO - [2025-10-14 16:08:36,613] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:08:36,631] {logging_mixin.py:115} INFO - [2025-10-14 16:08:36,631] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:08:36,644] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.094 seconds
+[2025-10-14 16:25:22,981] {processor.py:153} INFO - Started process (PID=22709) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:25:22,982] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:25:22,983] {logging_mixin.py:115} INFO - [2025-10-14 16:25:22,983] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:25:23,006] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:25:23,028] {logging_mixin.py:115} INFO - [2025-10-14 16:25:23,028] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:25:23,044] {logging_mixin.py:115} INFO - [2025-10-14 16:25:23,044] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:25:23,054] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2025-10-14 16:25:56,742] {processor.py:153} INFO - Started process (PID=22867) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:25:56,743] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:25:56,743] {logging_mixin.py:115} INFO - [2025-10-14 16:25:56,743] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:25:56,762] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:25:56,784] {logging_mixin.py:115} INFO - [2025-10-14 16:25:56,784] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:25:56,800] {logging_mixin.py:115} INFO - [2025-10-14 16:25:56,800] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:25:56,812] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.078 seconds
+[2025-10-14 16:26:31,288] {processor.py:153} INFO - Started process (PID=22925) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:26:31,289] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:26:31,290] {logging_mixin.py:115} INFO - [2025-10-14 16:26:31,290] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:26:31,357] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:26:31,401] {logging_mixin.py:115} INFO - [2025-10-14 16:26:31,401] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:26:31,420] {logging_mixin.py:115} INFO - [2025-10-14 16:26:31,420] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:26:31,432] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.148 seconds
+[2025-10-14 16:27:05,054] {processor.py:153} INFO - Started process (PID=22983) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:27:05,055] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:27:05,056] {logging_mixin.py:115} INFO - [2025-10-14 16:27:05,056] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:27:05,081] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:27:05,102] {logging_mixin.py:115} INFO - [2025-10-14 16:27:05,102] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:27:05,118] {logging_mixin.py:115} INFO - [2025-10-14 16:27:05,118] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:27:05,129] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2025-10-14 16:27:38,928] {processor.py:153} INFO - Started process (PID=23141) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:27:38,929] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:27:38,930] {logging_mixin.py:115} INFO - [2025-10-14 16:27:38,930] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:27:38,957] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:27:38,979] {logging_mixin.py:115} INFO - [2025-10-14 16:27:38,979] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:27:38,995] {logging_mixin.py:115} INFO - [2025-10-14 16:27:38,995] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:27:39,005] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.084 seconds
+[2025-10-14 16:28:13,218] {processor.py:153} INFO - Started process (PID=23250) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:28:13,219] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:28:13,219] {logging_mixin.py:115} INFO - [2025-10-14 16:28:13,219] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:28:13,242] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:28:13,266] {logging_mixin.py:115} INFO - [2025-10-14 16:28:13,266] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:28:13,285] {logging_mixin.py:115} INFO - [2025-10-14 16:28:13,285] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:28:13,303] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2025-10-14 16:28:45,936] {processor.py:153} INFO - Started process (PID=23355) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:28:45,937] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:28:45,938] {logging_mixin.py:115} INFO - [2025-10-14 16:28:45,938] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:28:45,958] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:28:45,982] {logging_mixin.py:115} INFO - [2025-10-14 16:28:45,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:28:45,999] {logging_mixin.py:115} INFO - [2025-10-14 16:28:45,999] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:28:46,011] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2025-10-14 16:29:16,820] {processor.py:153} INFO - Started process (PID=23459) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:29:16,821] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:29:16,822] {logging_mixin.py:115} INFO - [2025-10-14 16:29:16,822] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:29:16,851] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:29:16,873] {logging_mixin.py:115} INFO - [2025-10-14 16:29:16,873] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:29:16,888] {logging_mixin.py:115} INFO - [2025-10-14 16:29:16,888] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:29:16,899] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.086 seconds
+[2025-10-14 16:29:50,814] {processor.py:153} INFO - Started process (PID=23627) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:29:50,815] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:29:50,816] {logging_mixin.py:115} INFO - [2025-10-14 16:29:50,816] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:29:50,842] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:29:50,863] {logging_mixin.py:115} INFO - [2025-10-14 16:29:50,863] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:29:50,878] {logging_mixin.py:115} INFO - [2025-10-14 16:29:50,878] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:29:50,888] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2025-10-14 16:36:08,616] {processor.py:153} INFO - Started process (PID=24485) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:36:08,618] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-10-14 16:36:08,619] {logging_mixin.py:115} INFO - [2025-10-14 16:36:08,619] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:36:08,643] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-10-14 16:36:08,666] {logging_mixin.py:115} INFO - [2025-10-14 16:36:08,666] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:36:08,687] {logging_mixin.py:115} INFO - [2025-10-14 16:36:08,687] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-10-14 16:36:08,700] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.090 seconds

@@ -1,0 +1,397 @@
+[2025-10-14 14:57:03,891] {processor.py:153} INFO - Started process (PID=13237) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:57:03,892] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 14:57:03,893] {logging_mixin.py:115} INFO - [2025-10-14 14:57:03,893] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:57:03,906] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:57:03,987] {logging_mixin.py:115} INFO - [2025-10-14 14:57:03,987] {manager.py:511} ERROR - Creation of Permission View Error: (sqlite3.OperationalError) disk I/O error
+(Background on this error at: http://sqlalche.me/e/14/e3q8)
+[2025-10-14 14:57:03,998] {logging_mixin.py:115} INFO - [2025-10-14 14:57:03,998] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2025-10-14 14:57:04,005] {logging_mixin.py:115} INFO - [2025-10-14 14:57:04,005] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2025-10-14 14:57:04,006] {logging_mixin.py:115} INFO - [2025-10-14 14:57:04,005] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:57:04,013] {logging_mixin.py:115} INFO - [2025-10-14 14:57:04,013] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2025-10-14 14:57:04,022] {logging_mixin.py:115} INFO - [2025-10-14 14:57:04,021] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T17:57:04.021633+00:00, run_after=2025-10-14T17:57:04.021633+00:00
+[2025-10-14 14:57:04,035] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.149 seconds
+[2025-10-14 14:57:41,297] {processor.py:153} INFO - Started process (PID=13528) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:57:41,298] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 14:57:41,299] {logging_mixin.py:115} INFO - [2025-10-14 14:57:41,299] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:57:41,311] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:57:41,348] {logging_mixin.py:115} INFO - [2025-10-14 14:57:41,348] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:57:41,382] {logging_mixin.py:115} INFO - [2025-10-14 14:57:41,382] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T17:57:41.381979+00:00, run_after=2025-10-14T17:57:41.381979+00:00
+[2025-10-14 14:57:41,399] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.108 seconds
+[2025-10-14 14:58:15,736] {processor.py:153} INFO - Started process (PID=13688) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:58:15,737] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 14:58:15,738] {logging_mixin.py:115} INFO - [2025-10-14 14:58:15,738] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:58:15,751] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:58:15,776] {logging_mixin.py:115} INFO - [2025-10-14 14:58:15,776] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:58:15,795] {logging_mixin.py:115} INFO - [2025-10-14 14:58:15,795] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T17:58:15.795474+00:00, run_after=2025-10-14T17:58:15.795474+00:00
+[2025-10-14 14:58:15,806] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.077 seconds
+[2025-10-14 14:58:49,564] {processor.py:153} INFO - Started process (PID=13743) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:58:49,564] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 14:58:49,565] {logging_mixin.py:115} INFO - [2025-10-14 14:58:49,565] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:58:49,574] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:58:49,591] {logging_mixin.py:115} INFO - [2025-10-14 14:58:49,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:58:49,609] {logging_mixin.py:115} INFO - [2025-10-14 14:58:49,609] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T17:58:49.609508+00:00, run_after=2025-10-14T17:58:49.609508+00:00
+[2025-10-14 14:58:49,620] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-10-14 14:59:22,684] {processor.py:153} INFO - Started process (PID=13957) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:59:22,684] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 14:59:22,685] {logging_mixin.py:115} INFO - [2025-10-14 14:59:22,685] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:59:22,693] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:59:22,713] {logging_mixin.py:115} INFO - [2025-10-14 14:59:22,713] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:59:22,732] {logging_mixin.py:115} INFO - [2025-10-14 14:59:22,732] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T17:59:22.732287+00:00, run_after=2025-10-14T17:59:22.732287+00:00
+[2025-10-14 14:59:22,744] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-10-14 14:59:56,937] {processor.py:153} INFO - Started process (PID=14012) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:59:56,938] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 14:59:56,939] {logging_mixin.py:115} INFO - [2025-10-14 14:59:56,939] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:59:56,962] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 14:59:57,004] {logging_mixin.py:115} INFO - [2025-10-14 14:59:57,003] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 14:59:57,032] {logging_mixin.py:115} INFO - [2025-10-14 14:59:57,032] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T17:59:57.031808+00:00, run_after=2025-10-14T17:59:57.031808+00:00
+[2025-10-14 14:59:57,068] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.139 seconds
+[2025-10-14 15:00:30,290] {processor.py:153} INFO - Started process (PID=14070) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:00:30,291] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:00:30,292] {logging_mixin.py:115} INFO - [2025-10-14 15:00:30,292] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:00:30,302] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:00:30,324] {logging_mixin.py:115} INFO - [2025-10-14 15:00:30,324] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:00:30,346] {logging_mixin.py:115} INFO - [2025-10-14 15:00:30,346] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:00:30.345990+00:00, run_after=2025-10-14T18:00:30.345990+00:00
+[2025-10-14 15:00:30,360] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2025-10-14 15:01:03,029] {processor.py:153} INFO - Started process (PID=14379) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:01:03,030] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:01:03,030] {logging_mixin.py:115} INFO - [2025-10-14 15:01:03,030] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:01:03,040] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:01:03,060] {logging_mixin.py:115} INFO - [2025-10-14 15:01:03,060] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:01:03,081] {logging_mixin.py:115} INFO - [2025-10-14 15:01:03,080] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:01:03.080658+00:00, run_after=2025-10-14T18:01:03.080658+00:00
+[2025-10-14 15:01:03,093] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-10-14 15:01:36,885] {processor.py:153} INFO - Started process (PID=14485) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:01:36,885] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:01:36,886] {logging_mixin.py:115} INFO - [2025-10-14 15:01:36,886] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:01:36,898] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:01:36,921] {logging_mixin.py:115} INFO - [2025-10-14 15:01:36,921] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:01:36,942] {logging_mixin.py:115} INFO - [2025-10-14 15:01:36,942] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:01:36.942365+00:00, run_after=2025-10-14T18:01:36.942365+00:00
+[2025-10-14 15:01:36,955] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.076 seconds
+[2025-10-14 15:02:10,906] {processor.py:153} INFO - Started process (PID=14799) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:02:10,906] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:02:10,907] {logging_mixin.py:115} INFO - [2025-10-14 15:02:10,907] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:02:10,919] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:02:10,947] {logging_mixin.py:115} INFO - [2025-10-14 15:02:10,947] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:02:10,974] {logging_mixin.py:115} INFO - [2025-10-14 15:02:10,974] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:02:10.973825+00:00, run_after=2025-10-14T18:02:10.973825+00:00
+[2025-10-14 15:02:10,989] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.088 seconds
+[2025-10-14 15:02:44,312] {processor.py:153} INFO - Started process (PID=14856) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:02:44,313] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:02:44,314] {logging_mixin.py:115} INFO - [2025-10-14 15:02:44,314] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:02:44,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:02:44,368] {logging_mixin.py:115} INFO - [2025-10-14 15:02:44,368] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:02:44,441] {logging_mixin.py:115} INFO - [2025-10-14 15:02:44,441] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:02:44.440841+00:00, run_after=2025-10-14T18:02:44.440841+00:00
+[2025-10-14 15:02:44,458] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.152 seconds
+[2025-10-14 15:03:15,300] {processor.py:153} INFO - Started process (PID=15011) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:03:15,300] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:03:15,301] {logging_mixin.py:115} INFO - [2025-10-14 15:03:15,301] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:03:15,311] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:03:15,333] {logging_mixin.py:115} INFO - [2025-10-14 15:03:15,333] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:03:15,355] {logging_mixin.py:115} INFO - [2025-10-14 15:03:15,354] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:03:15.354678+00:00, run_after=2025-10-14T18:03:15.354678+00:00
+[2025-10-14 15:03:15,367] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-10-14 15:09:53,356] {processor.py:153} INFO - Started process (PID=15798) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:09:53,357] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:09:53,358] {logging_mixin.py:115} INFO - [2025-10-14 15:09:53,358] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:09:53,368] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:09:53,389] {logging_mixin.py:115} INFO - [2025-10-14 15:09:53,389] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:09:53,411] {logging_mixin.py:115} INFO - [2025-10-14 15:09:53,411] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:09:53.411235+00:00, run_after=2025-10-14T18:09:53.411235+00:00
+[2025-10-14 15:09:53,426] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2025-10-14 15:10:28,418] {processor.py:153} INFO - Started process (PID=15936) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:10:28,419] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:10:28,420] {logging_mixin.py:115} INFO - [2025-10-14 15:10:28,420] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:10:28,429] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:10:28,450] {logging_mixin.py:115} INFO - [2025-10-14 15:10:28,450] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:10:28,471] {logging_mixin.py:115} INFO - [2025-10-14 15:10:28,471] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:10:28.470867+00:00, run_after=2025-10-14T18:10:28.470867+00:00
+[2025-10-14 15:10:28,483] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-10-14 15:11:02,695] {processor.py:153} INFO - Started process (PID=15994) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:11:02,696] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:11:02,696] {logging_mixin.py:115} INFO - [2025-10-14 15:11:02,696] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:11:02,708] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:11:02,736] {logging_mixin.py:115} INFO - [2025-10-14 15:11:02,736] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:11:02,763] {logging_mixin.py:115} INFO - [2025-10-14 15:11:02,763] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:11:02.763065+00:00, run_after=2025-10-14T18:11:02.763065+00:00
+[2025-10-14 15:11:02,779] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.091 seconds
+[2025-10-14 15:11:35,905] {processor.py:153} INFO - Started process (PID=16152) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:11:35,906] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:11:35,907] {logging_mixin.py:115} INFO - [2025-10-14 15:11:35,907] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:11:35,918] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:11:35,945] {logging_mixin.py:115} INFO - [2025-10-14 15:11:35,945] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:11:35,970] {logging_mixin.py:115} INFO - [2025-10-14 15:11:35,970] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:11:35.969808+00:00, run_after=2025-10-14T18:11:35.969808+00:00
+[2025-10-14 15:11:35,986] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.086 seconds
+[2025-10-14 15:12:10,939] {processor.py:153} INFO - Started process (PID=16210) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:12:10,940] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:12:10,941] {logging_mixin.py:115} INFO - [2025-10-14 15:12:10,941] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:12:10,950] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:12:10,972] {logging_mixin.py:115} INFO - [2025-10-14 15:12:10,972] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:12:10,993] {logging_mixin.py:115} INFO - [2025-10-14 15:12:10,992] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:12:10.992611+00:00, run_after=2025-10-14T18:12:10.992611+00:00
+[2025-10-14 15:12:11,004] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-10-14 15:12:44,124] {processor.py:153} INFO - Started process (PID=16265) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:12:44,125] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:12:44,125] {logging_mixin.py:115} INFO - [2025-10-14 15:12:44,125] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:12:44,134] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:12:44,154] {logging_mixin.py:115} INFO - [2025-10-14 15:12:44,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:12:44,173] {logging_mixin.py:115} INFO - [2025-10-14 15:12:44,172] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:12:44.172629+00:00, run_after=2025-10-14T18:12:44.172629+00:00
+[2025-10-14 15:12:44,184] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-10-14 15:13:18,012] {processor.py:153} INFO - Started process (PID=16323) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:13:18,013] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:13:18,013] {logging_mixin.py:115} INFO - [2025-10-14 15:13:18,013] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:13:18,025] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:13:18,049] {logging_mixin.py:115} INFO - [2025-10-14 15:13:18,049] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:13:18,067] {logging_mixin.py:115} INFO - [2025-10-14 15:13:18,067] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:13:18.067361+00:00, run_after=2025-10-14T18:13:18.067361+00:00
+[2025-10-14 15:13:18,078] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2025-10-14 15:13:52,514] {processor.py:153} INFO - Started process (PID=16378) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:13:52,515] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:13:52,516] {logging_mixin.py:115} INFO - [2025-10-14 15:13:52,516] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:13:52,531] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:13:52,557] {logging_mixin.py:115} INFO - [2025-10-14 15:13:52,557] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:13:52,575] {logging_mixin.py:115} INFO - [2025-10-14 15:13:52,575] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:13:52.575496+00:00, run_after=2025-10-14T18:13:52.575496+00:00
+[2025-10-14 15:13:52,586] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds
+[2025-10-14 15:14:24,447] {processor.py:153} INFO - Started process (PID=16433) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:14:24,448] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:14:24,449] {logging_mixin.py:115} INFO - [2025-10-14 15:14:24,449] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:14:24,462] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:14:24,482] {logging_mixin.py:115} INFO - [2025-10-14 15:14:24,482] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:14:24,502] {logging_mixin.py:115} INFO - [2025-10-14 15:14:24,502] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:14:24.502331+00:00, run_after=2025-10-14T18:14:24.502331+00:00
+[2025-10-14 15:14:24,523] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.082 seconds
+[2025-10-14 15:15:00,043] {processor.py:153} INFO - Started process (PID=16543) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:15:00,044] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:15:00,044] {logging_mixin.py:115} INFO - [2025-10-14 15:15:00,044] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:15:00,054] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:15:00,074] {logging_mixin.py:115} INFO - [2025-10-14 15:15:00,074] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:15:00,093] {logging_mixin.py:115} INFO - [2025-10-14 15:15:00,093] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:15:00.093380+00:00, run_after=2025-10-14T18:15:00.093380+00:00
+[2025-10-14 15:15:00,104] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-10-14 15:15:34,908] {processor.py:153} INFO - Started process (PID=16601) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:15:34,909] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:15:34,910] {logging_mixin.py:115} INFO - [2025-10-14 15:15:34,909] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:15:34,923] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:15:34,946] {logging_mixin.py:115} INFO - [2025-10-14 15:15:34,946] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:15:34,964] {logging_mixin.py:115} INFO - [2025-10-14 15:15:34,964] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:15:34.964532+00:00, run_after=2025-10-14T18:15:34.964532+00:00
+[2025-10-14 15:15:34,975] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2025-10-14 15:16:09,877] {processor.py:153} INFO - Started process (PID=16711) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:16:09,878] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:16:09,878] {logging_mixin.py:115} INFO - [2025-10-14 15:16:09,878] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:16:09,887] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:16:09,907] {logging_mixin.py:115} INFO - [2025-10-14 15:16:09,907] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:16:09,925] {logging_mixin.py:115} INFO - [2025-10-14 15:16:09,925] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:16:09.925392+00:00, run_after=2025-10-14T18:16:09.925392+00:00
+[2025-10-14 15:16:09,936] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2025-10-14 15:16:44,149] {processor.py:153} INFO - Started process (PID=16972) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:16:44,150] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:16:44,150] {logging_mixin.py:115} INFO - [2025-10-14 15:16:44,150] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:16:44,161] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:16:44,183] {logging_mixin.py:115} INFO - [2025-10-14 15:16:44,183] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:16:44,203] {logging_mixin.py:115} INFO - [2025-10-14 15:16:44,202] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:16:44.202658+00:00, run_after=2025-10-14T18:16:44.202658+00:00
+[2025-10-14 15:16:44,214] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-10-14 15:17:17,840] {processor.py:153} INFO - Started process (PID=17082) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:17:17,841] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:17:17,841] {logging_mixin.py:115} INFO - [2025-10-14 15:17:17,841] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:17:17,853] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:17:17,875] {logging_mixin.py:115} INFO - [2025-10-14 15:17:17,875] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:17:17,893] {logging_mixin.py:115} INFO - [2025-10-14 15:17:17,893] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:17:17.893550+00:00, run_after=2025-10-14T18:17:17.893550+00:00
+[2025-10-14 15:17:17,904] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2025-10-14 15:17:54,100] {processor.py:153} INFO - Started process (PID=17316) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:17:54,101] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:17:54,101] {logging_mixin.py:115} INFO - [2025-10-14 15:17:54,101] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:17:54,112] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:17:54,134] {logging_mixin.py:115} INFO - [2025-10-14 15:17:54,134] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:17:54,156] {logging_mixin.py:115} INFO - [2025-10-14 15:17:54,156] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:17:54.156331+00:00, run_after=2025-10-14T18:17:54.156331+00:00
+[2025-10-14 15:17:54,169] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2025-10-14 15:58:51,394] {processor.py:153} INFO - Started process (PID=19818) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:58:51,395] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:58:51,396] {logging_mixin.py:115} INFO - [2025-10-14 15:58:51,396] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:58:51,407] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:58:51,432] {logging_mixin.py:115} INFO - [2025-10-14 15:58:51,432] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:58:51,458] {logging_mixin.py:115} INFO - [2025-10-14 15:58:51,458] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:58:51.458483+00:00, run_after=2025-10-14T18:58:51.458483+00:00
+[2025-10-14 15:58:51,474] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.085 seconds
+[2025-10-14 15:59:24,356] {processor.py:153} INFO - Started process (PID=20078) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:59:24,357] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:59:24,358] {logging_mixin.py:115} INFO - [2025-10-14 15:59:24,358] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:59:24,372] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:59:24,392] {logging_mixin.py:115} INFO - [2025-10-14 15:59:24,392] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:59:24,411] {logging_mixin.py:115} INFO - [2025-10-14 15:59:24,411] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:59:24.410862+00:00, run_after=2025-10-14T18:59:24.410862+00:00
+[2025-10-14 15:59:24,422] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-10-14 15:59:57,702] {processor.py:153} INFO - Started process (PID=20133) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:59:57,703] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 15:59:57,704] {logging_mixin.py:115} INFO - [2025-10-14 15:59:57,704] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:59:57,714] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 15:59:57,736] {logging_mixin.py:115} INFO - [2025-10-14 15:59:57,736] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 15:59:57,756] {logging_mixin.py:115} INFO - [2025-10-14 15:59:57,756] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T18:59:57.756227+00:00, run_after=2025-10-14T18:59:57.756227+00:00
+[2025-10-14 15:59:57,768] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-10-14 16:00:30,328] {processor.py:153} INFO - Started process (PID=20191) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:00:30,329] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:00:30,330] {logging_mixin.py:115} INFO - [2025-10-14 16:00:30,330] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:00:30,341] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:00:30,361] {logging_mixin.py:115} INFO - [2025-10-14 16:00:30,361] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:00:30,380] {logging_mixin.py:115} INFO - [2025-10-14 16:00:30,380] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:00:30.380064+00:00, run_after=2025-10-14T19:00:30.380064+00:00
+[2025-10-14 16:00:30,391] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-10-14 16:01:04,757] {processor.py:153} INFO - Started process (PID=20246) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:01:04,758] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:01:04,759] {logging_mixin.py:115} INFO - [2025-10-14 16:01:04,758] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:01:04,774] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:01:04,798] {logging_mixin.py:115} INFO - [2025-10-14 16:01:04,797] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:01:04,817] {logging_mixin.py:115} INFO - [2025-10-14 16:01:04,817] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:01:04.816960+00:00, run_after=2025-10-14T19:01:04.816960+00:00
+[2025-10-14 16:01:04,828] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds
+[2025-10-14 16:01:38,293] {processor.py:153} INFO - Started process (PID=20304) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:01:38,294] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:01:38,294] {logging_mixin.py:115} INFO - [2025-10-14 16:01:38,294] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:01:38,303] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:01:38,363] {logging_mixin.py:115} INFO - [2025-10-14 16:01:38,363] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:01:38,381] {logging_mixin.py:115} INFO - [2025-10-14 16:01:38,381] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:01:38.381491+00:00, run_after=2025-10-14T19:01:38.381491+00:00
+[2025-10-14 16:01:38,392] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.104 seconds
+[2025-10-14 16:02:13,032] {processor.py:153} INFO - Started process (PID=20362) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:02:13,033] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:02:13,034] {logging_mixin.py:115} INFO - [2025-10-14 16:02:13,034] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:02:13,042] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:02:13,064] {logging_mixin.py:115} INFO - [2025-10-14 16:02:13,064] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:02:13,085] {logging_mixin.py:115} INFO - [2025-10-14 16:02:13,084] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:02:13.084605+00:00, run_after=2025-10-14T19:02:13.084605+00:00
+[2025-10-14 16:02:13,096] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2025-10-14 16:02:44,862] {processor.py:153} INFO - Started process (PID=20416) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:02:44,862] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:02:44,863] {logging_mixin.py:115} INFO - [2025-10-14 16:02:44,863] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:02:44,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:02:44,891] {logging_mixin.py:115} INFO - [2025-10-14 16:02:44,891] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:02:44,911] {logging_mixin.py:115} INFO - [2025-10-14 16:02:44,911] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:02:44.911396+00:00, run_after=2025-10-14T19:02:44.911396+00:00
+[2025-10-14 16:02:44,924] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2025-10-14 16:03:18,390] {processor.py:153} INFO - Started process (PID=20471) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:03:18,391] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:03:18,392] {logging_mixin.py:115} INFO - [2025-10-14 16:03:18,392] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:03:18,400] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:03:18,420] {logging_mixin.py:115} INFO - [2025-10-14 16:03:18,420] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:03:18,442] {logging_mixin.py:115} INFO - [2025-10-14 16:03:18,442] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:03:18.441961+00:00, run_after=2025-10-14T19:03:18.441961+00:00
+[2025-10-14 16:03:18,457] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2025-10-14 16:03:53,318] {processor.py:153} INFO - Started process (PID=20581) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:03:53,320] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:03:53,321] {logging_mixin.py:115} INFO - [2025-10-14 16:03:53,321] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:03:53,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:03:53,351] {logging_mixin.py:115} INFO - [2025-10-14 16:03:53,351] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:03:53,369] {logging_mixin.py:115} INFO - [2025-10-14 16:03:53,369] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:03:53.369565+00:00, run_after=2025-10-14T19:03:53.369565+00:00
+[2025-10-14 16:03:53,380] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-10-14 16:04:26,347] {processor.py:153} INFO - Started process (PID=20639) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:04:26,349] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:04:26,350] {logging_mixin.py:115} INFO - [2025-10-14 16:04:26,350] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:04:26,361] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:04:26,381] {logging_mixin.py:115} INFO - [2025-10-14 16:04:26,381] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:04:26,400] {logging_mixin.py:115} INFO - [2025-10-14 16:04:26,399] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:04:26.399672+00:00, run_after=2025-10-14T19:04:26.399672+00:00
+[2025-10-14 16:04:26,410] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-10-14 16:04:59,255] {processor.py:153} INFO - Started process (PID=20694) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:04:59,256] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:04:59,257] {logging_mixin.py:115} INFO - [2025-10-14 16:04:59,257] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:04:59,267] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:04:59,287] {logging_mixin.py:115} INFO - [2025-10-14 16:04:59,287] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:04:59,306] {logging_mixin.py:115} INFO - [2025-10-14 16:04:59,305] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:04:59.305655+00:00, run_after=2025-10-14T19:04:59.305655+00:00
+[2025-10-14 16:04:59,316] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-10-14 16:05:32,291] {processor.py:153} INFO - Started process (PID=20751) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:05:32,292] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:05:32,293] {logging_mixin.py:115} INFO - [2025-10-14 16:05:32,293] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:05:32,302] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:05:32,322] {logging_mixin.py:115} INFO - [2025-10-14 16:05:32,322] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:05:32,341] {logging_mixin.py:115} INFO - [2025-10-14 16:05:32,341] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:05:32.341272+00:00, run_after=2025-10-14T19:05:32.341272+00:00
+[2025-10-14 16:05:32,352] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2025-10-14 16:06:06,320] {processor.py:153} INFO - Started process (PID=20806) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:06:06,321] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:06:06,321] {logging_mixin.py:115} INFO - [2025-10-14 16:06:06,321] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:06:06,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:06:06,350] {logging_mixin.py:115} INFO - [2025-10-14 16:06:06,350] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:06:06,368] {logging_mixin.py:115} INFO - [2025-10-14 16:06:06,368] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:06:06.368505+00:00, run_after=2025-10-14T19:06:06.368505+00:00
+[2025-10-14 16:06:06,379] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2025-10-14 16:06:38,568] {processor.py:153} INFO - Started process (PID=20860) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:06:38,569] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:06:38,569] {logging_mixin.py:115} INFO - [2025-10-14 16:06:38,569] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:06:38,584] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:06:38,612] {logging_mixin.py:115} INFO - [2025-10-14 16:06:38,612] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:06:38,634] {logging_mixin.py:115} INFO - [2025-10-14 16:06:38,634] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:06:38.633897+00:00, run_after=2025-10-14T19:06:38.633897+00:00
+[2025-10-14 16:06:38,645] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.082 seconds
+[2025-10-14 16:07:13,006] {processor.py:153} INFO - Started process (PID=20940) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:07:13,007] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:07:13,008] {logging_mixin.py:115} INFO - [2025-10-14 16:07:13,008] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:07:13,020] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:07:13,044] {logging_mixin.py:115} INFO - [2025-10-14 16:07:13,044] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:07:13,063] {logging_mixin.py:115} INFO - [2025-10-14 16:07:13,063] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:07:13.063236+00:00, run_after=2025-10-14T19:07:13.063236+00:00
+[2025-10-14 16:07:13,075] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2025-10-14 16:07:45,698] {processor.py:153} INFO - Started process (PID=21232) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:07:45,699] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:07:45,699] {logging_mixin.py:115} INFO - [2025-10-14 16:07:45,699] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:07:45,712] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:07:45,739] {logging_mixin.py:115} INFO - [2025-10-14 16:07:45,739] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:07:45,766] {logging_mixin.py:115} INFO - [2025-10-14 16:07:45,766] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:07:45.765407+00:00, run_after=2025-10-14T19:07:45.765407+00:00
+[2025-10-14 16:07:45,788] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.096 seconds
+[2025-10-14 16:08:18,964] {processor.py:153} INFO - Started process (PID=21492) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:08:18,965] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:08:18,965] {logging_mixin.py:115} INFO - [2025-10-14 16:08:18,965] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:08:18,975] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:08:18,996] {logging_mixin.py:115} INFO - [2025-10-14 16:08:18,996] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:08:19,017] {logging_mixin.py:115} INFO - [2025-10-14 16:08:19,017] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:08:19.016926+00:00, run_after=2025-10-14T19:08:19.016926+00:00
+[2025-10-14 16:08:19,029] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-10-14 16:08:51,573] {processor.py:153} INFO - Started process (PID=21696) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:08:51,574] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:08:51,575] {logging_mixin.py:115} INFO - [2025-10-14 16:08:51,574] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:08:51,589] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:08:51,614] {logging_mixin.py:115} INFO - [2025-10-14 16:08:51,614] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:08:51,635] {logging_mixin.py:115} INFO - [2025-10-14 16:08:51,635] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:08:51.635014+00:00, run_after=2025-10-14T19:08:51.635014+00:00
+[2025-10-14 16:08:51,646] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds
+[2025-10-14 16:25:25,714] {processor.py:153} INFO - Started process (PID=22713) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:25:25,714] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:25:25,715] {logging_mixin.py:115} INFO - [2025-10-14 16:25:25,715] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:25:25,725] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:25:25,750] {logging_mixin.py:115} INFO - [2025-10-14 16:25:25,750] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:25:25,780] {logging_mixin.py:115} INFO - [2025-10-14 16:25:25,780] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:25:25.779899+00:00, run_after=2025-10-14T19:25:25.779899+00:00
+[2025-10-14 16:25:25,793] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.084 seconds
+[2025-10-14 16:26:00,725] {processor.py:153} INFO - Started process (PID=22874) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:26:00,726] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:26:00,727] {logging_mixin.py:115} INFO - [2025-10-14 16:26:00,727] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:26:00,737] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:26:00,759] {logging_mixin.py:115} INFO - [2025-10-14 16:26:00,759] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:26:00,780] {logging_mixin.py:115} INFO - [2025-10-14 16:26:00,780] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:26:00.779892+00:00, run_after=2025-10-14T19:26:00.779892+00:00
+[2025-10-14 16:26:00,792] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-10-14 16:26:35,208] {processor.py:153} INFO - Started process (PID=22932) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:26:35,209] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:26:35,210] {logging_mixin.py:115} INFO - [2025-10-14 16:26:35,210] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:26:35,222] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:26:35,247] {logging_mixin.py:115} INFO - [2025-10-14 16:26:35,247] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:26:35,271] {logging_mixin.py:115} INFO - [2025-10-14 16:26:35,271] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:26:35.270270+00:00, run_after=2025-10-14T19:26:35.270270+00:00
+[2025-10-14 16:26:35,285] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.084 seconds
+[2025-10-14 16:27:09,174] {processor.py:153} INFO - Started process (PID=22990) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:27:09,176] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:27:09,177] {logging_mixin.py:115} INFO - [2025-10-14 16:27:09,176] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:27:09,192] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:27:09,212] {logging_mixin.py:115} INFO - [2025-10-14 16:27:09,212] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:27:09,231] {logging_mixin.py:115} INFO - [2025-10-14 16:27:09,231] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:27:09.230923+00:00, run_after=2025-10-14T19:27:09.230923+00:00
+[2025-10-14 16:27:09,242] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2025-10-14 16:27:43,608] {processor.py:153} INFO - Started process (PID=23148) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:27:43,609] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:27:43,610] {logging_mixin.py:115} INFO - [2025-10-14 16:27:43,610] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:27:43,625] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:27:43,658] {logging_mixin.py:115} INFO - [2025-10-14 16:27:43,657] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:27:43,679] {logging_mixin.py:115} INFO - [2025-10-14 16:27:43,679] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:27:43.679058+00:00, run_after=2025-10-14T19:27:43.679058+00:00
+[2025-10-14 16:27:43,690] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.089 seconds
+[2025-10-14 16:28:17,159] {processor.py:153} INFO - Started process (PID=23309) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:28:17,159] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:28:17,160] {logging_mixin.py:115} INFO - [2025-10-14 16:28:17,160] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:28:17,169] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:28:17,190] {logging_mixin.py:115} INFO - [2025-10-14 16:28:17,189] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:28:17,208] {logging_mixin.py:115} INFO - [2025-10-14 16:28:17,208] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:28:17.208549+00:00, run_after=2025-10-14T19:28:17.208549+00:00
+[2025-10-14 16:28:17,219] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-10-14 16:28:52,254] {processor.py:153} INFO - Started process (PID=23367) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:28:52,255] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:28:52,255] {logging_mixin.py:115} INFO - [2025-10-14 16:28:52,255] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:28:52,265] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:28:52,284] {logging_mixin.py:115} INFO - [2025-10-14 16:28:52,284] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:28:52,303] {logging_mixin.py:115} INFO - [2025-10-14 16:28:52,303] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:28:52.303338+00:00, run_after=2025-10-14T19:28:52.303338+00:00
+[2025-10-14 16:28:52,313] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-10-14 16:29:25,597] {processor.py:153} INFO - Started process (PID=23547) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:29:25,598] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:29:25,598] {logging_mixin.py:115} INFO - [2025-10-14 16:29:25,598] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:29:25,608] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:29:25,628] {logging_mixin.py:115} INFO - [2025-10-14 16:29:25,628] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:29:25,647] {logging_mixin.py:115} INFO - [2025-10-14 16:29:25,647] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:29:25.646963+00:00, run_after=2025-10-14T19:29:25.646963+00:00
+[2025-10-14 16:29:25,658] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2025-10-14 16:29:58,542] {processor.py:153} INFO - Started process (PID=23641) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:29:58,543] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:29:58,544] {logging_mixin.py:115} INFO - [2025-10-14 16:29:58,544] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:29:58,554] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:29:58,573] {logging_mixin.py:115} INFO - [2025-10-14 16:29:58,573] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:29:58,592] {logging_mixin.py:115} INFO - [2025-10-14 16:29:58,592] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:29:58.592268+00:00, run_after=2025-10-14T19:29:58.592268+00:00
+[2025-10-14 16:29:58,603] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2025-10-14 16:36:12,360] {processor.py:153} INFO - Started process (PID=24541) to work on /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:36:12,360] {processor.py:641} INFO - Processing file /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-14 16:36:12,361] {logging_mixin.py:115} INFO - [2025-10-14 16:36:12,361] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:36:12,371] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-14 16:36:12,393] {logging_mixin.py:115} INFO - [2025-10-14 16:36:12,393] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-14 16:36:12,416] {logging_mixin.py:115} INFO - [2025-10-14 16:36:12,416] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-13T19:36:12.415775+00:00, run_after=2025-10-14T19:36:12.415775+00:00
+[2025-10-14 16:36:12,428] {processor.py:161} INFO - Processing /root/Projects/etlX/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
